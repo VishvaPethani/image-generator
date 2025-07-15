@@ -5,7 +5,6 @@ This project is a full-stack application that generates images based on user pro
 ## Features
 
 *   Generate images from text prompts.
-*   (Add more features here as you develop them)
 
 ## Project Structure
 
